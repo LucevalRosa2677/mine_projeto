@@ -74,6 +74,7 @@ Em contextos como a Black Friday, onde o volume e a pressão sobre decisões aut
 
 - Repositório de dados: [fiesc-junior-prado/mine_projeto_bloco_1](https://github.com/fiesc-junior-prado/mine_projeto_bloco_1)
 
-## Autor
+## Autor Luceval Rosa Junior
+
 
 Projeto desenvolvido no âmbito do **Módulo 1 - Mini-Projeto Avaliativo** (Mine / Inteligência Artificial e Visão Computacional).

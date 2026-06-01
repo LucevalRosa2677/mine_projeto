@@ -77,4 +77,4 @@ Em contextos como a Black Friday, onde o volume e a pressão sobre decisões aut
 ## Autor Luceval Rosa Jr
 
 
-Projeto desenvolvido no âmbito do **Módulo 1 - Mini-Projeto Avaliativo** (Mine / Inteligência Artificial e Visão Computacional).
+Projeto desenvolvido no âmbito do **Módulo 1 - Mini-Projeto Avaliativo** (Mini / Inteligência Artificial e Visão Computacional).
